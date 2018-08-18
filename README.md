@@ -1,4 +1,4 @@
-# eigenfaces - Trabalho de Tópicos em Visão Computacional (Prof. David Menotti)
+# Face Identification - Trabalho de Tópicos em Visão Computacional (Prof. David Menotti)
 
 ### 1. Implement codes to load the databases
    - ORL (AT&T) Database -- 10 subjects x 40 images, each one with 92x112 pixels and 256 grey levels
